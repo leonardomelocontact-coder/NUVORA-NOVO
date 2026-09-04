@@ -1,0 +1,7 @@
+{
+  "name": "nuvora-checkout-transparente",
+  "version": "2.0.0",
+  "private": true,
+  "description": "NUVORA com Checkout Transparente do Mercado Pago",
+  "engines": { "node": ">=18" }
+}

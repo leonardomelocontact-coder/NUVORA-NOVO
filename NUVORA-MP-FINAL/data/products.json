@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1",
+    "name": "Poltrona Confort",
+    "category": "Casa & Decoração",
+    "icon": "🛋️",
+    "description": "Design elegante para deixar seu espaço aconchegante.",
+    "price": 399.9,
+    "tag": "DESTAQUE"
+  },
+  {
+    "id": "2",
+    "name": "Headphone Pro",
+    "category": "Tecnologia",
+    "icon": "🎧",
+    "description": "Som imersivo e conforto para sua rotina.",
+    "price": 189.9,
+    "tag": "NOVO"
+  },
+  {
+    "id": "3",
+    "name": "Smartwatch N",
+    "category": "Tecnologia",
+    "icon": "⌚",
+    "description": "Tecnologia inteligente para acompanhar seu dia.",
+    "price": 249.9
+  },
+  {
+    "id": "4",
+    "name": "Kit Smartphone",
+    "category": "Tecnologia & Acessórios",
+    "icon": "📱",
+    "description": "Acessórios essenciais para seu aparelho.",
+    "price": 129.9,
+    "tag": "OFERTA"
+  },
+  {
+    "id": "5",
+    "name": "Kit Pet Premium",
+    "category": "Pet Shop",
+    "icon": "🐶",
+    "description": "Cuidados e acessórios para seu melhor amigo.",
+    "price": 89.9
+  },
+  {
+    "id": "6",
+    "name": "Kit Beauty",
+    "category": "Beleza & Cuidados",
+    "icon": "💄",
+    "description": "Itens selecionados para sua rotina de cuidados.",
+    "price": 79.9
+  },
+  {
+    "id": "7",
+    "name": "Kit Fitness",
+    "category": "Fitness & Esportes",
+    "icon": "🏋️",
+    "description": "Acessórios para treinar com praticidade e estilo.",
+    "price": 119.9,
+    "tag": "MAIS VENDIDO"
+  },
+  {
+    "id": "8",
+    "name": "Kit Cozinha",
+    "category": "Cozinha & Utilidades",
+    "icon": "🍳",
+    "description": "Utilidades práticas para sua cozinha.",
+    "price": 99.9
+  }
+]
