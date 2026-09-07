@@ -1,0 +1,5 @@
+1. No Vercel, abra Settings > Environment Variables.
+2. Crie MP_PUBLIC_KEY com a Public Key do Mercado Pago.
+3. Crie MP_ACCESS_TOKEN com o Access Token do Mercado Pago.
+4. Marque Production (e Preview se quiser testar previews).
+5. Salve e faça um novo Deploy.
